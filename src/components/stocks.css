@@ -1,0 +1,15 @@
+.table {
+  text-align: left;
+}
+
+.num {
+  text-align: right;
+}
+
+.up {
+  background: green;
+}
+
+.down {
+  background: red;
+}
