@@ -1,6 +1,7 @@
 {
   "name": "stock-analyzer",
   "version": "0.1.0",
+  "homepage": "https://deepjyoti941.github.io/stock-analyzer",
   "private": true,
   "dependencies": {
     "gh-pages": "^1.1.0",
