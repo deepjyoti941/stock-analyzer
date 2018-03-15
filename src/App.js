@@ -54,7 +54,6 @@ class App extends Component {
   }
 
   render() {
-    console.log('tickers', this.state.tickers);
     return (<div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo"/>
